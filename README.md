@@ -8,8 +8,6 @@
   <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
-
 ---
 
 ### 🔥 My Stats 
